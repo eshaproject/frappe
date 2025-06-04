@@ -26,7 +26,7 @@ msgstr "ke browser Anda"
 #: core/doctype/document_naming_rule_condition/document_naming_rule_condition.json
 msgctxt "Document Naming Rule Condition"
 msgid "!="
-msgstr ""
+msgstr "!"
 
 #. Description of the 'Org History Heading' (Data) field in DocType 'About Us
 #. Settings'
@@ -48,7 +48,7 @@ msgstr "\"Anggota Tim\" atau \"Manajemen\""
 
 #: public/js/frappe/form/form.js:1063
 msgid "\"amended_from\" field must be present to do an amendment."
-msgstr "Bidang &quot;amended_from&quot; harus ada untuk melakukan amandemen."
+msgstr "Bidang &quot;amended_from&quot; harus ada untuk melakukan perubahan."
 
 #: utils/csvutils.py:219
 msgid "\"{0}\" is not a valid Google Sheets URL"
@@ -187,15 +187,15 @@ msgstr "&lt;head&gt; HTML"
 
 #: public/js/form_builder/store.js:201
 msgid "'In Global Search' is not allowed for field {0} of type {1}"
-msgstr ""
+msgstr "'Pencarian Global' tidak diizinkan untuk bidang {0} dengan tipe {1}"
 
 #: core/doctype/doctype/doctype.py:1305
 msgid "'In Global Search' not allowed for type {0} in row {1}"
-msgstr "'Di Pencarian Global' tidak dibolehkan jenis {0} pada baris {1}"
+msgstr "'Pencarian Global' tidak dibolehkan jenis {0} pada baris {1}"
 
 #: public/js/form_builder/store.js:193
 msgid "'In List View' is not allowed for field {0} of type {1}"
-msgstr ""
+msgstr "'Tampilan Daftar' tidak diizinkan untuk bidang {0} bertipe {1}"
 
 #: custom/doctype/customize_form/customize_form.py:360
 msgid "'In List View' not allowed for type {0} in row {1}"
@@ -207,7 +207,7 @@ msgstr "'Penerima' belum ditentukan"
 
 #: utils/__init__.py:240
 msgid "'{0}' is not a valid URL"
-msgstr ""
+msgstr "'{0}' bukan URL yang valid"
 
 #: core/doctype/doctype/doctype.py:1299
 msgid "'{0}' not allowed for type {1} in row {2}"
@@ -232,19 +232,19 @@ msgstr "0 adalah tertinggi"
 
 #: public/js/frappe/form/grid_row.js:786
 msgid "1 = True & 0 = False"
-msgstr ""
+msgstr "1 = Benar & 0 = Salah"
 
 #. Description of the 'Fraction Units' (Int) field in DocType 'Currency'
 #: geo/doctype/currency/currency.json
 msgctxt "Currency"
-msgid ""
+msgid "Mata Uang"
 "1 Currency = [?] Fraction\n"
 "For e.g. 1 USD = 100 Cent"
 msgstr ""
 
 #: public/js/frappe/form/reminders.js:19
 msgid "1 Day"
-msgstr ""
+msgstr "1 Hari"
 
 #: integrations/doctype/google_calendar/google_calendar.py:358
 msgid "1 Google Calendar Event synced."
@@ -256,11 +256,11 @@ msgstr "1 komentar"
 
 #: tests/test_utils.py:647
 msgid "1 day ago"
-msgstr ""
+msgstr "1 hari yang lalu"
 
 #: public/js/frappe/form/reminders.js:17
 msgid "1 hour"
-msgstr ""
+msgstr "1 jam"
 
 #: public/js/frappe/utils/pretty_date.js:52 tests/test_utils.py:645
 msgid "1 hour ago"
@@ -280,7 +280,7 @@ msgstr "1 catatan akan diekspor"
 
 #: tests/test_utils.py:642
 msgid "1 second ago"
-msgstr ""
+msgstr "1 detik yang lalu"
 
 #: public/js/frappe/utils/pretty_date.js:62 tests/test_utils.py:649
 msgid "1 week ago"
@@ -292,7 +292,7 @@ msgstr "1 tahun yang lalu"
 
 #: tests/test_utils.py:646
 msgid "2 hours ago"
-msgstr ""
+msgstr "2 jam yang lalu"
 
 #: tests/test_utils.py:652
 msgid "2 months ago"
