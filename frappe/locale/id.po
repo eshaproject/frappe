@@ -3178,13 +3178,13 @@ msgstr "Mobil"
 #. Name of a DocType
 #: email/doctype/auto_email_report/auto_email_report.json
 msgid "Auto Email Report"
-msgstr "Laporan Surel Otomatis"
+msgstr "Laporan Email Otomatis"
 
 #. Label of a Link in the Tools Workspace
 #: automation/workspace/tools/tools.json
 msgctxt "Auto Email Report"
 msgid "Auto Email Report"
-msgstr "Laporan Surel Otomatis"
+msgstr "Laporan Email Otomatis"
 
 #. Label of a Data field in DocType 'Customize Form'
 #: custom/doctype/customize_form/customize_form.json
@@ -3595,7 +3595,7 @@ msgstr "Frekuensi Pencadangan"
 
 #: desk/page/backups/backups.py:99
 msgid "Backup job is already queued. You will receive an email with the download link"
-msgstr "Pekerjaan cadangan sudah dalam antrian. Anda akan menerima surel dengan tautan unduh"
+msgstr "Pekerjaan cadangan sudah dalam antrian. Anda akan menerima email dengan tautan unduh"
 
 #. Description of the 'Backup Files' (Check) field in DocType 'S3 Backup
 #. Settings'
@@ -5975,7 +5975,7 @@ msgstr "Komponen"
 
 #: public/js/frappe/views/inbox/inbox_view.js:184
 msgid "Compose Email"
-msgstr "Menulis Surel"
+msgstr "Menulis Email"
 
 #. Label of a Small Text field in DocType 'Bulk Update'
 #: desk/doctype/bulk_update/bulk_update.json
@@ -8100,7 +8100,7 @@ msgstr "Hapus komentar?"
 
 #: email/doctype/email_unsubscribe/email_unsubscribe.py:30
 msgid "Delete this record to allow sending to this email address"
-msgstr "Hapus data ini untuk bisa mengirim ke alamat surel ini"
+msgstr "Hapus data ini untuk bisa mengirim ke alamat email ini"
 
 #: public/js/frappe/list/list_view.js:1862
 msgctxt "Title of confirmation dialog"
@@ -8531,7 +8531,7 @@ msgstr "Nonaktifkan Pendaftaran untuk situs Anda"
 #: core/doctype/system_settings/system_settings.json
 msgctxt "System Settings"
 msgid "Disable Standard Email Footer"
-msgstr "Nonaktifkan standard catatan kaki pada surel"
+msgstr "Nonaktifkan standard catatan kaki pada email"
 
 #. Label of a Check field in DocType 'System Settings'
 #: core/doctype/system_settings/system_settings.json
@@ -9842,7 +9842,7 @@ msgstr "Edit"
 
 #: templates/emails/auto_email_report.html:63
 msgid "Edit Auto Email Report Settings"
-msgstr "Edit Pengaturan Laporan Surel Otomatis"
+msgstr "Edit Pengaturan Laporan Email Otomatis"
 
 #: printing/page/print_format_builder/print_format_builder.js:719
 msgid "Edit Custom HTML"
@@ -9973,55 +9973,55 @@ msgstr ""
 #: templates/includes/comments/comments.html:25 templates/signup.html:9
 #: www/login.html:7 www/login.py:93
 msgid "Email"
-msgstr "Surel"
+msgstr "Email"
 
 #. Option for the 'Type' (Select) field in DocType 'Communication'
 #: core/doctype/communication/communication.json
 msgctxt "Communication"
 msgid "Email"
-msgstr "Surel"
+msgstr "Email"
 
 #. Label of a Check field in DocType 'Custom DocPerm'
 #: core/doctype/custom_docperm/custom_docperm.json
 msgctxt "Custom DocPerm"
 msgid "Email"
-msgstr "Surel"
+msgstr "Email"
 
 #. Label of a Check field in DocType 'DocPerm'
 #: core/doctype/docperm/docperm.json
 msgctxt "DocPerm"
 msgid "Email"
-msgstr "Surel"
+msgstr "Email"
 
 #. Label of a Data field in DocType 'Email Group Member'
 #: email/doctype/email_group_member/email_group_member.json
 msgctxt "Email Group Member"
 msgid "Email"
-msgstr "Surel"
+msgstr "Email"
 
 #. Label of a Data field in DocType 'Email Unsubscribe'
 #: email/doctype/email_unsubscribe/email_unsubscribe.json
 msgctxt "Email Unsubscribe"
 msgid "Email"
-msgstr "Surel"
+msgstr "Email"
 
 #. Label of a Data field in DocType 'Event Participants'
 #: desk/doctype/event_participants/event_participants.json
 msgctxt "Event Participants"
 msgid "Email"
-msgstr "Surel"
+msgstr "Email"
 
 #. Option for the 'Channel' (Select) field in DocType 'Notification'
 #: email/doctype/notification/notification.json
 msgctxt "Notification"
 msgid "Email"
-msgstr "Surel"
+msgstr "Email"
 
 #. Label of a Data field in DocType 'Personal Data Deletion Request'
 #: website/doctype/personal_data_deletion_request/personal_data_deletion_request.json
 msgctxt "Personal Data Deletion Request"
 msgid "Email"
-msgstr "Surel"
+msgstr "Email"
 
 #. Option for the 'Two Factor Authentication method' (Select) field in DocType
 #. 'System Settings'
@@ -10029,14 +10029,14 @@ msgstr "Surel"
 #: core/doctype/system_settings/system_settings.json
 msgctxt "System Settings"
 msgid "Email"
-msgstr "Surel"
+msgstr "Email"
 
 #. Label of a Data field in DocType 'User'
 #. Label of a Section Break field in DocType 'User'
 #: core/doctype/user/user.json
 msgctxt "User"
 msgid "Email"
-msgstr "Surel"
+msgstr "Email"
 
 #. Name of a DocType
 #: core/doctype/communication/communication.js:199
@@ -10094,11 +10094,11 @@ msgstr ""
 #: email/doctype/email_account/email_account.json
 msgctxt "Email Account"
 msgid "Email Account Name"
-msgstr "Nama akun surel"
+msgstr "Nama akun email"
 
 #: core/doctype/user/user.py:697
 msgid "Email Account added multiple times"
-msgstr "Akun surel ditambahkan beberapa kali"
+msgstr "Akun email ditambahkan beberapa kali"
 
 #: email/smtp.py:42
 msgid "Email Account not setup. Please create a new Email Account from Settings > Email Account"
@@ -10141,14 +10141,14 @@ msgstr "Alamat Email yang Kontak Google-nya harus disinkronkan."
 
 #: email/doctype/email_group/email_group.js:43
 msgid "Email Addresses"
-msgstr "Alamat Surel"
+msgstr "Alamat Email"
 
 #. Description of the 'Send Notification to' (Small Text) field in DocType
 #. 'Email Account'
 #: email/doctype/email_account/email_account.json
 msgctxt "Email Account"
 msgid "Email Addresses"
-msgstr "Alamat Surel"
+msgstr "Alamat Email"
 
 #. Name of a DocType
 #: email/doctype/email_domain/email_domain.json
@@ -10164,47 +10164,47 @@ msgstr "Domain Email"
 #. Name of a DocType
 #: email/doctype/email_flag_queue/email_flag_queue.json
 msgid "Email Flag Queue"
-msgstr "Tanda Antrian Surel"
+msgstr "Tanda Antrian Email"
 
 #. Label of a Small Text field in DocType 'System Settings'
 #: core/doctype/system_settings/system_settings.json
 msgctxt "System Settings"
 msgid "Email Footer Address"
-msgstr "Alamat Footer Surel"
+msgstr "Alamat Footer Email"
 
 #. Name of a DocType
 #: email/doctype/email_group/email_group.json
 msgid "Email Group"
-msgstr "Kelompok Surel"
+msgstr "Kelompok Email"
 
 #. Label of a Link in the Tools Workspace
 #: automation/workspace/tools/tools.json
 msgctxt "Email Group"
 msgid "Email Group"
-msgstr "Kelompok Surel"
+msgstr "Kelompok Email"
 
 #. Label of a Link field in DocType 'Email Group Member'
 #: email/doctype/email_group_member/email_group_member.json
 msgctxt "Email Group Member"
 msgid "Email Group"
-msgstr "Kelompok Surel"
+msgstr "Kelompok Email"
 
 #. Label of a Link field in DocType 'Newsletter Email Group'
 #: email/doctype/newsletter_email_group/newsletter_email_group.json
 msgctxt "Newsletter Email Group"
 msgid "Email Group"
-msgstr "Kelompok Surel"
+msgstr "Kelompok Email"
 
 #. Name of a DocType
 #: email/doctype/email_group_member/email_group_member.json
 msgid "Email Group Member"
-msgstr "Anggota Kelompok Surel"
+msgstr "Anggota Kelompok Email"
 
 #. Linked DocType in Email Group's connections
 #: email/doctype/email_group/email_group.json
 msgctxt "Email Group"
 msgid "Email Group Member"
-msgstr "Anggota Kelompok Surel"
+msgstr "Anggota Kelompok Email"
 
 #. Label of a Data field in DocType 'Contact Email'
 #: contacts/doctype/contact_email/contact_email.json
@@ -10245,12 +10245,12 @@ msgstr "Kotak Masuk Email"
 #. Name of a DocType
 #: email/doctype/email_queue/email_queue.json
 msgid "Email Queue"
-msgstr "Antrian Surel"
+msgstr "Antrian Email"
 
 #. Name of a DocType
 #: email/doctype/email_queue_recipient/email_queue_recipient.json
 msgid "Email Queue Recipient"
-msgstr "Penerima Antrian Surel"
+msgstr "Penerima Antrian Email"
 
 #: email/queue.py:163
 msgid "Email Queue flushing aborted due to too many failures."
@@ -10271,7 +10271,7 @@ msgstr ""
 #. Name of a DocType
 #: email/doctype/email_rule/email_rule.json
 msgid "Email Rule"
-msgstr "Aturan Surel"
+msgstr "Aturan Email"
 
 #. Label of a Check field in DocType 'Blog Post'
 #: website/doctype/blog_post/blog_post.json
@@ -10325,13 +10325,13 @@ msgstr "Email Signature"
 #: core/doctype/communication/communication.json
 msgctxt "Communication"
 msgid "Email Status"
-msgstr "Status Surel"
+msgstr "Status Email"
 
 #. Label of a Select field in DocType 'Email Account'
 #: email/doctype/email_account/email_account.json
 msgctxt "Email Account"
 msgid "Email Sync Option"
-msgstr "Opsi Sinkronisasi Surel"
+msgstr "Opsi Sinkronisasi Email"
 
 #. Name of a DocType
 #: email/doctype/email_template/email_template.json
@@ -10361,7 +10361,7 @@ msgstr ""
 #: email/doctype/auto_email_report/auto_email_report.json
 msgctxt "Auto Email Report"
 msgid "Email To"
-msgstr "Surel Ke"
+msgstr "Email Ke"
 
 #. Name of a DocType
 #: email/doctype/email_unsubscribe/email_unsubscribe.json
@@ -10378,7 +10378,7 @@ msgstr "Email telah dipindahkan ke sampah"
 
 #: public/js/frappe/views/communication.js:707
 msgid "Email not sent to {0} (unsubscribed / disabled)"
-msgstr "Surel tidak dikirim ke {0} (tidak berlangganan / dinonaktifkan)"
+msgstr "Email tidak dikirim ke {0} (tidak berlangganan / dinonaktifkan)"
 
 #: utils/oauth.py:163
 msgid "Email not verified with {0}"
@@ -10386,7 +10386,7 @@ msgstr "Email tidak diverifikasi dengan {0}"
 
 #: email/queue.py:141
 msgid "Emails are muted"
-msgstr "Surel diabaikan sementara"
+msgstr "Email diabaikan sementara"
 
 #. Description of the 'Send Email Alert' (Check) field in DocType 'Workflow'
 #: workflow/doctype/workflow/workflow.json
@@ -10878,7 +10878,7 @@ msgstr "Masukkan Id Klien dan Rahasia Klien di Pengaturan Google."
 
 #: public/js/frappe/views/communication.js:663
 msgid "Enter Email Recipient(s)"
-msgstr "Masukkan Penerima Surel"
+msgstr "Masukkan Penerima Email"
 
 #. Label of a Link field in DocType 'Customize Form'
 #: custom/doctype/customize_form/customize_form.json
@@ -12903,7 +12903,7 @@ msgstr "Meneruskan"
 #: website/doctype/contact_us_settings/contact_us_settings.json
 msgctxt "Contact Us Settings"
 msgid "Forward To Email Address"
-msgstr "Teruskan Ke Alamat Surel"
+msgstr "Teruskan Ke Alamat Email"
 
 #. Label of a Data field in DocType 'Currency'
 #: geo/doctype/currency/currency.json
@@ -15632,7 +15632,7 @@ msgstr "Integrasi"
 #: core/doctype/communication/communication.json
 msgctxt "Communication"
 msgid "Integrations can use this field to set email delivery status"
-msgstr "Integrasi dapat menggunakan kolom ini untuk menetapkan status pengiriman surel"
+msgstr "Integrasi dapat menggunakan kolom ini untuk menetapkan status pengiriman email"
 
 #. Option for the 'Font' (Select) field in DocType 'Print Settings'
 #: printing/doctype/print_settings/print_settings.json
@@ -16603,7 +16603,7 @@ msgstr ""
 #: integrations/doctype/ldap_settings/ldap_settings.json
 msgctxt "LDAP Settings"
 msgid "LDAP Email Field"
-msgstr "Kolom Surel LDAP"
+msgstr "Kolom Email LDAP"
 
 #. Label of a Data field in DocType 'LDAP Settings'
 #: integrations/doctype/ldap_settings/ldap_settings.json
@@ -19717,7 +19717,7 @@ msgstr "Dokumen Baru Dibagikan {0}"
 #: public/js/frappe/form/footer/form_timeline.js:26
 #: public/js/frappe/views/communication.js:23
 msgid "New Email"
-msgstr "Surel Baru"
+msgstr "Email Baru"
 
 #: public/js/frappe/list/list_view_select.js:98
 #: public/js/frappe/views/inbox/inbox_view.js:177
@@ -19863,7 +19863,7 @@ msgstr ""
 #. Name of a DocType
 #: email/doctype/newsletter_email_group/newsletter_email_group.json
 msgid "Newsletter Email Group"
-msgstr "Surel surat edaran kelompok"
+msgstr "Email surat edaran kelompok"
 
 #. Name of a role
 #: email/doctype/email_group/email_group.json
@@ -20037,7 +20037,7 @@ msgstr "Tidak ada data"
 
 #: public/js/frappe/views/inbox/inbox_view.js:176
 msgid "No Email Account"
-msgstr "Tidak ada Akun Surel"
+msgstr "Tidak ada Akun Email"
 
 #: public/js/frappe/views/inbox/inbox_view.js:183
 msgid "No Emails"
@@ -20660,7 +20660,7 @@ msgstr "Beri tahu melalui Email"
 #: core/doctype/docshare/docshare.json
 msgctxt "DocShare"
 msgid "Notify by email"
-msgstr "Beritahu melalui Surel"
+msgstr "Beritahu melalui Email"
 
 #. Label of a Check field in DocType 'Email Account'
 #: email/doctype/email_account/email_account.json
@@ -21014,7 +21014,7 @@ msgstr "Hanya 200 sisipan diperbolehkan dalam satu permintaan"
 
 #: email/doctype/email_queue/email_queue.py:80
 msgid "Only Administrator can delete Email Queue"
-msgstr "Hanya Administrator dapat menghapus Antrian Surel"
+msgstr "Hanya Administrator dapat menghapus Antrian Email"
 
 #: core/doctype/page/page.py:66
 msgid "Only Administrator can edit"
@@ -35813,18 +35813,18 @@ msgstr "mengeluarkan"
 #, fuzzy
 msgctxt "Permission Inspector"
 msgid "email"
-msgstr "surel"
+msgstr "email"
 
 #. Option for the 'Social Link Type' (Select) field in DocType 'Social Link
 #. Settings'
 #: website/doctype/social_link_settings/social_link_settings.json
 msgctxt "Social Link Settings"
 msgid "email"
-msgstr "surel"
+msgstr "email"
 
 #: public/js/frappe/ui/toolbar/search_utils.js:289
 msgid "email inbox"
-msgstr "Kotak Masuk Surel"
+msgstr "Kotak Masuk Email"
 
 #: permissions.py:411 permissions.py:422
 #: public/js/frappe/form/controls/link.js:479
